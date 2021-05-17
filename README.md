@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋🏿
+I love to build things, like bad puns, and enjoy football. 
+
+I'm also on the Developer Relations Team at Google.
+
+Below are a few of my favorite things
 
 <!--
 **tunjid/tunjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
