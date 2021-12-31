@@ -8,7 +8,9 @@ Pinned are a few of my favorite things.
 For more experimental / avant garde / Kotlin multiplatform stuff you may wanna checkout:
 
 ✨ [Tiler](https://github.com/tunjid/Tiler): An experimental multiplatform way of loading chunks of data into lists or maps
+
 ✨ [Mutator](https://github.com/tunjid/Mutator): Yet another multiplatform redux like library
+
 ✨ [Me](https://github.com/tunjid/me): An experiment in Kotlin multiplatform for the desktop, Android, and narcissism
 
 <!--
