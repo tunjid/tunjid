@@ -11,6 +11,8 @@ For more experimental / avant garde / Kotlin multiplatform stuff you may wanna c
 
 ✨ [Mutator](https://github.com/tunjid/Mutator): Yet another Kotlin multiplatform redux like library
 
+✨ [TreeNav](https://github.com/tunjid/treeNav): An experiment in Kotlin multiplatform for representing app navigation with tree like data structures
+
 ✨ [Me](https://github.com/tunjid/me): An experiment in Kotlin multiplatform for the desktop, Android and narcissism conduit
 
 <!--
