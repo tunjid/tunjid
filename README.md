@@ -7,7 +7,7 @@ Pinned are a few of my favorite things.
 
 For more experimental / avant garde / Kotlin multiplatform stuff you may wanna checkout:
 
-✨ [Me](https://github.com/tunjid/me): An experiment in Kotlin multiplatform WYSIWYG blog editor for the desktop and Android
+✨ [Me](https://github.com/tunjid/me): An experimental Kotlin multiplatform WYSIWYG blog editor for the desktop and Android
 
 ✨ [Tiler](https://github.com/tunjid/Tiler): An experimental Kotlin multiplatform way of loading chunks of data into lists or maps
 
