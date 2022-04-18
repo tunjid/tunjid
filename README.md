@@ -1,7 +1,7 @@
 # Hi there 👋🏿
 I love to build things, like bad puns, and enjoy football. 
 
-I'm also on the Android Developer Relations Team at Google.
+I'm also on the Android Developer Relations Team at Google working on MAD (Mordern Android Development).
 
 Pinned are a few of my favorite things.
 
