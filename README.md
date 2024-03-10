@@ -2,7 +2,7 @@
 
 I love to build things, like bad puns, and enjoy football. 
 
-I'm also on the Android Developer Relations Team at Google working on MAD (Mordern Android Development) with a focus on architecture.
+I'm also on the Media Foundations Team at Airbnb.
 
 I identify as a functional reactive programming and immutable state zealot.
 
