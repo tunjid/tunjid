@@ -10,6 +10,8 @@ Pinned are a few of my favorite things.
 
 For more experimental / avant garde / Kotlin multiplatform stuff you may wanna checkout:
 
+✨ [Heron](https://github.com/tunjid/heron): An offline-first Kotlin multiplatform Bluesky client for Android, iOS and the desktop.
+
 ✨ [Me](https://github.com/tunjid/me): An experimental Kotlin multiplatform WYSIWYG blog editor for the desktop and Android
 
 ✨ [Tiler](https://github.com/tunjid/Tiler): An experimental Kotlin multiplatform pagination library
