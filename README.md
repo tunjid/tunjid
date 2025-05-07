@@ -8,17 +8,19 @@ I'm a co-author of the [official Android Architecture guide](https://developer.a
 
 Pinned are a few of my favorite things.
 
-For more experimental / avant garde / Kotlin multiplatform stuff you may wanna checkout:
+For more experimental / avant garde / Kotlin multiplatform / Compose multiplatform stuff you may wanna checkout:
 
-✨ [Heron](https://github.com/tunjid/heron): An offline-first Kotlin multiplatform Bluesky client for Android, iOS and the desktop.
+✨ [Heron](https://github.com/tunjid/heron): An offline-first Kotlin multiplatform and Compose multiplatform Bluesky client for Android, iOS and the desktop.
 
-✨ [Me](https://github.com/tunjid/me): An experimental Kotlin multiplatform WYSIWYG blog editor for the desktop and Android.
+✨ [Me](https://github.com/tunjid/me): An experimental Kotlin multiplatform and Compose multiplatform WYSIWYG blog editor for the desktop and Android.
 
-✨ [Tiler](https://github.com/tunjid/Tiler): An experimental Kotlin multiplatform pagination library.
+✨ [Tiler](https://github.com/tunjid/Tiler): An experimental Kotlin multiplatform and Compose multiplatform pagination library.
+
+✨ [Comosables](https://github.com/tunjid/composables): An experimental Kotlin multiplatform and Compose multiplatform library for utilitly Composables.
 
 ✨ [Mutator](https://github.com/tunjid/Mutator): Yet another Kotlin multiplatform redux like library.
 
-✨ [TreeNav](https://github.com/tunjid/treeNav): An experiment in Kotlin multiplatform for representing app navigation with tree like data structures.
+✨ [TreeNav](https://github.com/tunjid/treeNav): An experiment in Kotlin multiplatform and Compose multiplatform for representing app navigation with tree like data structures.
 
 
 <!--
