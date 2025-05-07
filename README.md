@@ -16,7 +16,7 @@ For more experimental / avant garde / Kotlin multiplatform / Compose multiplatfo
 
 ✨ [Tiler](https://github.com/tunjid/Tiler): An experimental Kotlin multiplatform and Compose multiplatform pagination library.
 
-✨ [Comosables](https://github.com/tunjid/composables): An experimental Kotlin multiplatform and Compose multiplatform library for utilitly Composables.
+✨ [Composables](https://github.com/tunjid/composables): An experimental Kotlin multiplatform and Compose multiplatform library for utilitly Composables.
 
 ✨ [Mutator](https://github.com/tunjid/Mutator): Yet another Kotlin multiplatform redux like library.
 
